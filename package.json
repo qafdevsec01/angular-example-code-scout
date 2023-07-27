@@ -22,7 +22,7 @@
     "core-js": "^3.3.5",
     "flexboxgrid-sass": "^8.0.5",
     "rxjs": "^6.5.3",
-    "zone.js": "~0.9.1"
+    "zone.js": "~0.13.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.803.15",
