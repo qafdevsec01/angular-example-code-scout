@@ -19,7 +19,7 @@
     "@angular/platform-browser": "^8.2.12",
     "@angular/platform-browser-dynamic": "^8.2.12",
     "@angular/router": "^8.2.12",
-    "core-js": "^3.3.5",
+    "core-js": "^3.31.1",
     "flexboxgrid-sass": "^8.0.5",
     "rxjs": "^6.5.3",
     "zone.js": "~0.9.1"
